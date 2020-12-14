@@ -1,0 +1,8 @@
+Names=["Christian","John","Kat","Sam","Riley","Mikey","Ryan","Jordan","Tim","David"]
+
+for i in range(0, 10):
+    acceptedName = str(input("Please enter a name: "))
+    name.append(Names)
+
+for j in range(0, len(names)):
+    print(names.pop(0))
